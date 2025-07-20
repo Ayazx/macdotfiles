@@ -1,0 +1,76 @@
+font-family = "JetBrainsMono Nerd Font"
+font-size = 17
+background-opacity = 0.85
+theme = tokyonight
+cursor-style = block
+mouse-hide-while-typing = true
+window-save-state = always
+macos-titlebar-style=transparent
+window-colorspace = "display-p3"
+background = 1C2021
+background-blur = true
+
+
+#shaders
+#custom-shader = ./shaders/bloom.glsl
+#custom-shader = ./shaders/aurora.glsl
+#custom-shader = ./shaders/bettercrt.glsl
+#custom-shader = ./shaders/animated-gcrtradient-shader.glsl
+#custom-shader = ./shaders/cineshader.glsl
+#custom-shader = ./shaders/crt.glsl
+#custom-shader = ./shaders/cubes.glsl
+#custom-shader = ./shaders/dither.glsl
+#custom-shader = ./shaders/drunkard.glsl
+#custom-shader = ./shaders/fireworks-rockets.glsl
+#custom-shader = ./shaders/fireworks.glsl
+#custom-shader = ./shaders/galaxy.glsl
+#custom-shader = ./shaders/gears-and-belts.glsl
+#custom-shader = ./shaders/glitchy.glsl
+#custom-shader = ./shaders/glow-rgbsplit-twitchy.glsl
+#custom-shader = ./shaders/gradient-background.glsl
+#custom-shader = ./shaders/in-game-crt.glsl
+#custom-shader = ./shaders/inside-the-matrix.glsl
+#custom-shader = ./shaders/just-snow.glsl
+#custom-shader = ./shaders/matrix-hallway.glsl
+#custom-shader = ./shaders/mnoise.glsl
+#custom-shader = ./shaders/negative.glsl
+#custom-shader = ./shaders/retro-terminal.glsl
+#custom-shader = ./shaders/sin-interface.glsl
+#custom-shader = ./shaders/smoke-and-ghost.glsl
+#custom-shader = ./shaders/sparks-from-fire.glsl
+#custom-shader = ./shaders/spotlight.glsl
+#custom-shader = ./shaders/starfield-colors.glsl
+#custom-shader = ./shaders/tft.glsl
+#custom-shader = ./shaders/underwater.glsl
+#custom-shader = ./shaders/water.glsl.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/cursor_blaze_no_trail.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/cursor_blaze_tapered.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/cursor_blaze.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/cursor_frozen.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/cursor_smear_fade.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/cursor_smear.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/debug_cursor_animated.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/debug_cursor_static.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/manga_slash.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/WIP.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/cust_smear.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/test_sh.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/test2.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/test3.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/.glsl
+#custom-shader = ./shaders/ghostty-shader-playground/shaders/.glsl
+
+
+#keybinds
+keybind = cmd+s>r=reload_config
+keybind = cmd+s>x=close_surface
+keybind = cmd+s>n=new_window
+keybind = cmd+s>t=new_tab
+keybind = cmd+s>shift+l=next_tab 
+
+#keybind = cmd+s>shift+n=new_split
+#keybind = cmd+s>shift+j=goto_split
+#keybind = cmd+s>shift+p=toggle_split_zoom
+#keybind = cmd+s>shift+p=resize_split
+#keybind = cmd+s>shift+e=equalize_splits
